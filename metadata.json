@@ -1,0 +1,5 @@
+{
+  "name": "Maps Prospector AI",
+  "description": "A B2B prospecting tool using Google Maps Grounding to find businesses and Gemini AI to analyze fit and generate sales strategies.",
+  "requestFramePermissions": []
+}
